@@ -6,5 +6,4 @@
     end
     else result:=false;
   end;
-  function SecondsInMinute():integer:=60;
 end.
